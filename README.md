@@ -20,13 +20,21 @@
 
 Here are some screenshots showcasing the key features and user interface of **HealthEZY**:
 
-![Screenshot 1](sc1.jpeg)  
-![Screenshot 2](sc2.jpeg)  
-![Screenshot 3](sc3.jpeg)  
-![Screenshot 4](sc4.jpeg)  
-![Screenshot 5](sc5.jpeg)  
-![Screenshot 6](sc6.jpeg)  
-![Screenshot 7](sc7.jpeg)
+<p align="center">
+  <img src="sc1.jpeg" alt="Screenshot 1" width="200"/>
+  <img src="sc2.jpeg" alt="Screenshot 2" width="200"/>
+  <img src="sc3.jpeg" alt="Screenshot 3" width="200"/>
+</p>
+
+<p align="center">
+  <img src="sc4.jpeg" alt="Screenshot 4" width="200"/>
+  <img src="sc5.jpeg" alt="Screenshot 5" width="200"/>
+  <img src="sc6.jpeg" alt="Screenshot 6" width="200"/>
+</p>
+
+<p align="center">
+  <img src="sc7.jpeg" alt="Screenshot 7" width="200"/>
+</p>
 
 ---
 
