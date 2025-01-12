@@ -4,6 +4,7 @@
 
 ---
 
+
 ## 🌟 **Key Features**
 
 - **Real-Time Health Monitoring:** Continuous tracking of vital signs (heart rate, SpO₂, temperature) through IoT wearables with instant alerts for critical conditions.  
@@ -15,6 +16,20 @@
 - **Automated Treatment Plans:** AI-generated or doctor-curated personalized treatment plans based on patient health history and real-time data.
 
 ---
+## 📸 **Output Screenshots**
+
+Here are some screenshots showcasing the key features and user interface of **HealthEZY**:
+
+![Screenshot 1](sc1.jpeg)  
+![Screenshot 2](sc2.jpeg)  
+![Screenshot 3](sc3.jpeg)  
+![Screenshot 4](sc4.jpeg)  
+![Screenshot 5](sc5.jpeg)  
+![Screenshot 6](sc6.jpeg)  
+![Screenshot 7](sc7.jpeg)
+
+---
+
 
 ## 🔧 **Tech Stack**
 
