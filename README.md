@@ -55,7 +55,6 @@
 **Project Name:** HealthEZY  
 **Developed by:** Team InnoVate  
 **Email:** ramaadithya5@gmail.com
-**Contact:** +91 9940674086 
 **Institution:** SRM Institute of Science and Technology, Chennai  
 
 ---
