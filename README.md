@@ -77,7 +77,7 @@ Here are some screenshots showcasing the key features and user interface of **He
 
 **Project Name:** HealthEZY  
 **Developed by:** Team InnoVate  
-**Email:** ramaadithya5@gmail.com
+**Email:** animeshraj57480@gmail.com
 **Institution:** SRM Institute of Science and Technology, Chennai  
 
 ---
